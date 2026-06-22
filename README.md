@@ -1,4 +1,4 @@
-# Plataforma Punto Joven (Compajefra)
+# Plataforma Punto Joven 
 
 Plataforma full-stack para la gestion, registro y validacion de jovenes beneficiarios del programa Punto Joven, asi como la afiliacion y administracion de comercios locales. Desarrollada sobre un entorno React + Express integrado con SQL Server.
 
