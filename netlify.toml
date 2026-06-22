@@ -1,0 +1,11 @@
+# Configuración para Netlify (SPA solamente)
+# Nota: Usando Vercel para full-stack
+
+[build]
+  command = "npm install && npm run build"
+  publish = "dist/spa"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
